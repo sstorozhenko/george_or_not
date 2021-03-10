@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "test-case"
 version = "0.1.0"
-description = "Dependances for Junior CV engineer test case"
+description = "Dependences for Junior CV engineer test case"
 
 authors = [
     "Sofia Storozhenko <storozhenko@phystech.edu>"
