@@ -14,4 +14,4 @@ Test case to create a model which would determine if the picture of George or no
 
 
 *Notes: check this link for more details, it may be useful :) 
-https://mungingdata.com/python/jupyter-workflow-poetry-pandas/ *
+https://mungingdata.com/python/jupyter-workflow-poetry-pandas/ 
